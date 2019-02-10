@@ -1,3 +1,2 @@
 server/login_api/
-server/config.json
-client/data/config.json
+node_modules
